@@ -1,10 +1,10 @@
 /* Your CSS Code here. */
 
-div .holder {
+.holder {
 	display : flex;
 	flex-direction : row;
 	justify-content: space-evenly;
-	flex-wrap : wrap;
+	flex-wrap: wrap;
 }
 
 
